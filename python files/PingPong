@@ -1,0 +1,7 @@
+from kivy.app import App 
+form kivy.uix.widget import Widget
+
+
+class PongGame(widget):
+	pass
+
